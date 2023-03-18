@@ -12,7 +12,7 @@ public abstract class Animal {
         return this.sexo;
     }
     public void duerme() {
-        System.out.println("Zzzzzzz");
+        System.out.println("Duermo como un tronco");
     }
     public void come(String comida) {
         System.out.println("Estoy comiendo " + comida);
