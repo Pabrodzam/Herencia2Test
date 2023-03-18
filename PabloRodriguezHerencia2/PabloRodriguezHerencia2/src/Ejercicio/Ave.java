@@ -13,7 +13,7 @@ public class Ave extends Animal {
         if (this.getSexo() == Sexo.MACHO) {
             System.out.println("Soy macho, no puedo poner huevos");
         } else {
-            System.out.println("Ahi va eso... un huevo");
+            System.out.println("Voy a poner un huevazo");
         }
     }
 
